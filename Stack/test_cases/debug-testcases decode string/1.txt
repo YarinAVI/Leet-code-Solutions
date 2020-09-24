@@ -1,0 +1,23 @@
+bcaca
+bcaca bcaca bcaca
+16
+3
+3[a]2[bc]
+012345678
+
+aaa[bc
+
+abc3[cd]xyz
+012345678910
+
+abc cdcdcd
+
+"12[ff5[g3[asd2[ggg[3[gege]]]]]]" - mem fail
+"c2[2[ba3[f]]]" - mem fail
+"12[5[g2[c2[e]]]]"
+"
+
+
+
+
+

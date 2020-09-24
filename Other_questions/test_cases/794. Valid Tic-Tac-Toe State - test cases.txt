@@ -1,0 +1,8 @@
+["X O", " X ", "OOX"]
+["XXO", " X ", "OXO"]
+["XXX","XXX","XXX"]
+["XOX", " X ", "   "]
+["XOX", "O O", "XOX"]
+["XOX", " X ", "   "]
+["O  ", "   ", "   "]
+["XXO","XOX","OXO"]

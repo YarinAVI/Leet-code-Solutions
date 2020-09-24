@@ -1,0 +1,19 @@
+3[b2[ca]] 
+012345678
+3 2 <- stack head pointer
+[b[ca  ===== [bcaca] === bcacabcacabcaca
+[bcaca
+3 
+[bcaca]
+
+acacb 3
+
+[bacac
+
+2[leetcode]
+012345678910
+
+
+
+
+
